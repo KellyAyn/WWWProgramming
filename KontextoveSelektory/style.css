@@ -1,0 +1,24 @@
+.top {
+    color: orange;
+    list-style-type: disc;
+}
+
+.second {
+    color: blueviolet;
+    list-style-type: disc;
+}
+
+.third {
+    color: red;
+    list-style-type: disc;
+}
+
+.fourth {
+    color: purple;
+    list-style-type: disc;
+}
+
+.fifth {
+    color: green;
+    list-style-type: disc;
+}

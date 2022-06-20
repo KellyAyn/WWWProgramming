@@ -1,0 +1,81 @@
+body {
+    padding-left: 25px;
+    background-color: lightslategray;
+}
+
+.orange {
+    float: left;
+    width: 48%;
+}
+
+.orange-header {
+    color: orange;
+}
+
+.orange-img {
+    float: left;
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+}
+
+.orange-txt {
+    text-align: justify;
+    
+}
+
+.orange-div {
+    color: orange;
+}
+
+.red {
+    float: right;
+    padding-right: 30px;
+    width: 48%;
+}
+
+.red-header {
+    color: red;
+}
+
+.red-img {
+    float: left;
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+}
+
+.red-txt {
+    text-align: justify;
+    
+}
+
+.red-div {
+    color: red;
+}
+
+.green {
+    float: left;
+    padding-right: 30px;
+    width: 48%;
+}
+
+.green-header {
+    color: lightblue;
+}
+
+.green-img {
+    float: left;
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+}
+
+.green-txt {
+    text-align: justify;
+    
+}
+
+.green-div {
+    color: green;
+}
